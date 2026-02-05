@@ -1,0 +1,15 @@
+# Env and secrets
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
