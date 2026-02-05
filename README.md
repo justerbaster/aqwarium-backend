@@ -2,7 +2,7 @@
 
 Backend for the [Aqwarium](https://github.com/justerbaster/aqwarium) frontend.
 
-**Add your backend code here** (from the project archive). This repo is a placeholder until you copy the backend into it.
+**Add your backend code here** (from the project archive). This repo currently runs a minimal placeholder server so Railway can deploy it; replace with your real backend when ready.
 
 ## After adding your code
 
